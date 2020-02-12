@@ -160,7 +160,7 @@
 	
 		<repository>
 			<id>MuleRepository</id><!-- This id should be same as server id in setting.xml -->
-			<name>nexus-ee</name>
+			<name>MuleRepository</name>
 			<url>https://repository.mulesoft.org/nexus-ee/content/repositories/releases-ee/</url>
 			<layout>default</layout>
 			<releases>
